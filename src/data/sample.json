@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s1",
+    "url": "https://github.com",
+    "title": "GitHub: Let's build from here",
+    "timestamp": "2026-09-08T14:30:00Z",
+    "visitDuration": 845,
+    "visitCount": 12
+  },
+  {
+    "id": "s2",
+    "url": "https://stackoverflow.com/questions/example",
+    "title": "How to parse CSV in JavaScript - Stack Overflow",
+    "timestamp": "2026-09-08T13:15:00Z",
+    "visitDuration": 420,
+    "visitCount": 3
+  },
+  {
+    "id": "s3",
+    "url": "https://www.youtube.com/watch?v=example",
+    "title": "React Tutorial for Beginners - YouTube",
+    "timestamp": "2026-09-07T20:45:00Z",
+    "visitDuration": 1870,
+    "visitCount": 1
+  },
+  {
+    "id": "s4",
+    "url": "https://www.google.com/search?q=browser+history+analyzer",
+    "title": "browser history analyzer - Google Search",
+    "timestamp": "2026-09-07T19:30:00Z",
+    "visitDuration": 95,
+    "visitCount": 5
+  },
+  {
+    "id": "s5",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/FileReader",
+    "title": "FileReader - Web APIs | MDN",
+    "timestamp": "2026-09-07T18:00:00Z",
+    "visitDuration": 310,
+    "visitCount": 2
+  },
+  {
+    "id": "s6",
+    "url": "https://news.ycombinator.com",
+    "title": "Hacker News",
+    "timestamp": "2026-09-06T12:00:00Z",
+    "visitDuration": 560,
+    "visitCount": 8
+  },
+  {
+    "id": "s7",
+    "url": "https://www.reddit.com/r/javascript/",
+    "title": "r/javascript - Reddit",
+    "timestamp": "2026-09-06T10:30:00Z",
+    "visitDuration": 720,
+    "visitCount": 6
+  },
+  {
+    "id": "s8",
+    "url": "https://www.wikipedia.org",
+    "title": "Wikipedia, the free encyclopedia",
+    "timestamp": "2026-09-05T22:15:00Z",
+    "visitDuration": 180,
+    "visitCount": 4
+  },
+  {
+    "id": "s9",
+    "url": "https://vercel.com/docs",
+    "title": "Documentation | Vercel Docs",
+    "timestamp": "2026-09-05T16:00:00Z",
+    "visitDuration": 430,
+    "visitCount": 3
+  },
+  {
+    "id": "s10",
+    "url": "https://www.npmjs.com/package/uuid",
+    "title": "uuid - npm",
+    "timestamp": "2026-09-04T09:45:00Z",
+    "visitDuration": 200,
+    "visitCount": 2
+  }
+]
